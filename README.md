@@ -34,5 +34,3 @@ Contributors names and contact info
 
 ex. Javier Ureña Santiago  
 ex. javier.urena@uibk.ac.at
-
-## License
