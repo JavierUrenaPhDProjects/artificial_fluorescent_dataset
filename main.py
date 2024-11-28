@@ -3,7 +3,7 @@ import os
 
 
 def main():
-    background_path = 'path/to/background/images'
+    background_path = 'DATASET/Background'
     output_path = 'output/path/to/save/your/dataset'
     N = 100
     max_cells = 2000
