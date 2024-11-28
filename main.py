@@ -3,8 +3,8 @@ import os
 
 
 def main():
-    background_path = '/home/javier/Pycharm/DATASETS/DesDet/Background'
-    output_path = '/home/javier/Pycharm/DATASETS/DesDet/Artificial_dataset'
+    background_path = 'path/to/background/images'
+    output_path = 'output/path/to/save/your/dataset'
     N = 100
     max_cells = 2000
 
